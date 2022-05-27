@@ -16,8 +16,6 @@ public class string {
 		System.out.println(b);
 		System.out.println(c);
 		int d=Name.codePointCount(0, 5);
-		System.out.println(d);
-		System.out.println(name.compareTo(Name));
 		System.out.println(name.compareToIgnoreCase(Name));
 		System.out.println(name.concat(Name));
 		System.out.println(name.contains(Name));
