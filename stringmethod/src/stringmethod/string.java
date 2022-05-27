@@ -13,6 +13,7 @@ public class string {
 		int b=name.codePointAt(0);
 		int c=name.codePointBefore(4);
 		System.out.println(b);
+		System.out.println(b);
 		System.out.println(c);
 		int d=Name.codePointCount(0, 5);
 		System.out.println(d);
