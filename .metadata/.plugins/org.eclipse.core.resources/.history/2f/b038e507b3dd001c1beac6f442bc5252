@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class dayOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name="java";
+		name=name+"jgj";
+		System.out.print(name);
+
+	}
+
+}

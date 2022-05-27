@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package accessModifier;
+
+/**
+ * @author karth
+ *
+ */
+public class AccessModifier {
+	public int hours =12;
+	
+	protected int minutes=55;
+
+    private int a=2;
+
+}

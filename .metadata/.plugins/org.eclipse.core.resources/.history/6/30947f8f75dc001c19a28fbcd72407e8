@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package atmproject;
+
+import java.util.Scanner;
+
+/**
+ * @author karth
+ *
+ */
+public class atminput {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int a,b,c,balance=50000,withdraw;
+		String name="karthigairaj";
+		 System.out.println("Enter Your pin :");
+		 Scanner input = new Scanner (System.in);
+	   a=input.nextInt();
+	     if(a<=9999)
+	     {
+	    		     
+        System.out.println("Welcome" +name);
+        System.out.println(" Your pin is correct");
+	     }
+       // b=input.nextInt();
+        
+	}
+
+}

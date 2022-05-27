@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package Stringg;
+
+/**
+ * @author karth
+ *
+ */
+public class what {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	Stringwhat sld=new Stringwhat("kumar");
+	String name=new String("karthi");
+	System.out.println(name);
+	System.out.println(sld);
+	}
+
+}

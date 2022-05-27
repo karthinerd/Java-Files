@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package accessModifier;
+
+/**
+ * @author karth
+ *
+ */
+public class AccessModifier {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

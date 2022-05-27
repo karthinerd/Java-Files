@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package accessModifier;
+
+/**
+ * @author karth
+ *
+ */
+public class AccessModifier {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	int hours=10;
+	int minutes=55;
+
+	}
+
+}

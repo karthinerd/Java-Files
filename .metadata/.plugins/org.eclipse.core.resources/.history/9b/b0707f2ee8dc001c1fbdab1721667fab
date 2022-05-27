@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package stringmethod;
+
+public class string {
+
+	public static void main(String[] args) {
+		String name = "Karthi";
+		char a=name.charAt(3);
+		System.out.println(a);
+	}
+
+}

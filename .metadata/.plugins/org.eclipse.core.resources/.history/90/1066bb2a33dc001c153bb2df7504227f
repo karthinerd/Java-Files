@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class dayOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name;
+		Scanner input = new Scanner(System.in).useDelimiter(" ");
+		name=input.next();
+		System.out.print("Enter the values"+name+" ");
+
+	}
+
+}

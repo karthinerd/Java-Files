@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package accessModifier2;
+
+import accessModifier.AccessModifier;
+
+/**
+ * @author karth
+ *
+ */
+public class access2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		AccessModifier karthi = new AccessModifier();
+        System.out.println(karthi.hours);
+        System.out.println(karthi.minutes);
+	}
+
+}

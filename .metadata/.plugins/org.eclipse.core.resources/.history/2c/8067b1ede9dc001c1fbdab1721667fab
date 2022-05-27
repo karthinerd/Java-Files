@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package stringmethod;
+
+public class string {
+
+	public static void main(String[] args) {
+		String name = "Karthi";
+		char a=name.charAt(3);
+		System.out.println(a);
+		int b=name.codePointAt(0);
+		int c=name.codePointBefore(4);
+		System.out.println(b);
+		System.out.println(c);
+	}
+
+}
