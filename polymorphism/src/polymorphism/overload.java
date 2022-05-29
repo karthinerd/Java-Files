@@ -9,6 +9,7 @@ class B extends A{
 		System.out.println(a+b+c);
 		System.out.println(a-b-c);
 		System.out.println(a-b+c);
+		System.out.println(a+b-c);
 	}
 }
 public class overload {
